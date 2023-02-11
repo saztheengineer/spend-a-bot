@@ -9,4 +9,4 @@ gym = input("Gym Membership: £")
 
 totalSpending = int(rent) + int(bills) + int(food) + int(phoneBill) + int(tv) + int(gym) 
 
-print(totalSpending)
+print("£",totalSpending)
